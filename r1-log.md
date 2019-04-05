@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Carol Bolger]
+# #100DaysOfCode Log - Round 1 - Carol Bolger
 
-The log of my #100DaysOfCode challenge. Started on [April 5, 2019.
+The log of my #100DaysOfCode challenge. Started on April 5, 2019.
 
 ## Log
 
