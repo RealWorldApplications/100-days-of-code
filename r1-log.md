@@ -9,3 +9,5 @@ I decided to take on the challenge to learn the habit of finishing projects. I t
 
 ### R1D2
 Today I continued to work on freecodecamps tutorials and projects. I am half way through the first project, a tribute page. I chose to create a page for Gloria Steinem.
+### R1D3
+Finished a project for Flutter Create Contest. It's a trivia quiz app.
