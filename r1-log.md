@@ -15,3 +15,5 @@ Finished a project for Flutter Create Contest. It's a trivia quiz app.
 Finished the first project on freecodecamp - Tribute Page.
 ### R1D5
 Started another Flutter project. It's a tip calculator. I have the basics working. Next I need to work on the UI.
+### R1D6
+Continued to work on the Flutter project, added some radio buttons. Went through some freecodecamp tutorials and started the second project.
