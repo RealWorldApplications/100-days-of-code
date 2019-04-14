@@ -17,3 +17,7 @@ Finished the first project on freecodecamp - Tribute Page.
 Started another Flutter project. It's a tip calculator. I have the basics working. Next I need to work on the UI.
 ### R1D6
 Continued to work on the Flutter project, added some radio buttons. Went through some freecodecamp tutorials and started the second project.
+### R1D6
+Continued to work on the Flutter project, added some radio buttons. Went through some demo apps for practive.
+### R1D8
+Continued to work on the Flutter project, added some style. Spent some time trying to better organize the code.
