@@ -21,3 +21,5 @@ Continued to work on the Flutter project, added some radio buttons. Went through
 Continued to work on the Flutter project, added some radio buttons. Went through some demo apps for practive.
 ### R1D8
 Continued to work on the Flutter project, added some style. Spent some time trying to better organize the code.
+### R1D8
+Adding animation to the Flutter project.
