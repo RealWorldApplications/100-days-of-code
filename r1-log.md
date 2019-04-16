@@ -23,3 +23,5 @@ Continued to work on the Flutter project, added some radio buttons. Went through
 Continued to work on the Flutter project, added some style. Spent some time trying to better organize the code.
 ### R1D8
 Adding animation to the Flutter project.
+### R1D9
+Added formatting to Flutter project. Specifically currency format to the input and text fields.
