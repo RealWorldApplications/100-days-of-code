@@ -25,3 +25,5 @@ Continued to work on the Flutter project, added some style. Spent some time tryi
 Adding animation to the Flutter project.
 ### R1D9
 Added formatting to Flutter project. Specifically currency format to the input and text fields.
+### R1D10
+Began work on freecodecamp's second project. A survey form.
