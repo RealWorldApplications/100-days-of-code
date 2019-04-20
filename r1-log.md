@@ -29,3 +29,5 @@ Added formatting to Flutter project. Specifically currency format to the input a
 Began work on freecodecamp's second project. A survey form.
 ### R1D11
 Playing around with the color scheme on the survey form project, while finishing up the html.
+### R1D12
+Finishing up the second project, and spent some time going through the CSS tutorials.
