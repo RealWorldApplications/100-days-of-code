@@ -31,3 +31,7 @@ Began work on freecodecamp's second project. A survey form.
 Playing around with the color scheme on the survey form project, while finishing up the html.
 ### R1D12
 Finishing up the second project, and spent some time going through the CSS tutorials.
+### R1D13
+Starting a new Flutter project to demonstrate animations. 
+### R1D14
+Working on the third project for FCC. Product Landing Page.
