@@ -35,3 +35,5 @@ Finishing up the second project, and spent some time going through the CSS tutor
 Starting a new Flutter project to demonstrate animations. 
 ### R1D14
 Working on the third project for FCC. Product Landing Page.
+### R1D15
+Continued work on Flutter project so far I have an example showing AnimatedContainer. 
