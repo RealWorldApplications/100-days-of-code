@@ -37,5 +37,7 @@ Starting a new Flutter project to demonstrate animations.
 Working on the third project for FCC. Product Landing Page.
 ### R1D15
 Continued work on Flutter project so far I have an example showing AnimatedContainer. 
-### R1D14
+### R1D16
 Continued working on the third project for FCC. Trying to figure out what content to add such as images and video.
+### R1D17
+Added navigation drawer to Flutter project. 
