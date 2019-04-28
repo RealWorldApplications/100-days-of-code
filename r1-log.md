@@ -41,3 +41,5 @@ Continued work on Flutter project so far I have an example showing AnimatedConta
 Continued working on the third project for FCC. Trying to figure out what content to add such as images and video.
 ### R1D17
 Added navigation drawer to Flutter project. 
+### R1D18
+Working on nav-bar for FCC web project. 
