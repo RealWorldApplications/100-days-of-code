@@ -43,3 +43,5 @@ Continued working on the third project for FCC. Trying to figure out what conten
 Added navigation drawer to Flutter project. 
 ### R1D18
 Working on nav-bar for FCC web project. 
+### R1D19
+Worked on the Flutter project. Added AnimatedContainer.
