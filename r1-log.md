@@ -45,3 +45,5 @@ Added navigation drawer to Flutter project.
 Working on nav-bar for FCC web project. 
 ### R1D19
 Worked on the Flutter project. Added AnimatedContainer.
+### R1D20
+Added another animation to the Flutter project - using animation controller and tween.
