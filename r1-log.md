@@ -47,3 +47,5 @@ Working on nav-bar for FCC web project.
 Worked on the Flutter project. Added AnimatedContainer.
 ### R1D20
 Added another animation to the Flutter project - using animation controller and tween.
+### R1D21
+Worked on the Technical Documentation project for FCC.
