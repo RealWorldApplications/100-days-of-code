@@ -49,3 +49,5 @@ Worked on the Flutter project. Added AnimatedContainer.
 Added another animation to the Flutter project - using animation controller and tween.
 ### R1D21
 Worked on the Technical Documentation project for FCC.
+### R1D22
+Worked on the Flutter Project. Started to add DecoratedBoxTransition as another animation. Still needs work.
