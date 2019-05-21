@@ -53,4 +53,5 @@ Worked on the Technical Documentation project for FCC.
 Worked on the Flutter Project. Started to add DecoratedBoxTransition as another animation. Still needs work.
 ### R1D23
 Worked on the FCC project. Finishing up the Technical Documentation Page.
-
+### R1D24
+Submitted Technical Documentation Page. Began working on JS.
