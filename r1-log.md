@@ -55,3 +55,5 @@ Worked on the Flutter Project. Started to add DecoratedBoxTransition as another 
 Worked on the FCC project. Finishing up the Technical Documentation Page.
 ### R1D24
 Submitted Technical Documentation Page. Began working on JS.
+### R1D24
+Started a Gatsby Site.
