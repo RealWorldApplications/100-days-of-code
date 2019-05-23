@@ -57,3 +57,5 @@ Worked on the FCC project. Finishing up the Technical Documentation Page.
 Submitted Technical Documentation Page. Began working on JS.
 ### R1D24
 Started a Gatsby Site.
+### R1D25
+Created several pages in Gatsby site. Index, about, contact.
