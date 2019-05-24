@@ -59,3 +59,5 @@ Submitted Technical Documentation Page. Began working on JS.
 Started a Gatsby Site.
 ### R1D25
 Created several pages in Gatsby site. Index, about, contact.
+### R1D26
+Added navigation to the Gatsby site, and a little styling.
