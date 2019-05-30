@@ -61,3 +61,6 @@ Started a Gatsby Site.
 Created several pages in Gatsby site. Index, about, contact.
 ### R1D26
 Added navigation to the Gatsby site, and a little styling.
+### R1D27
+Added blog page and finished Gatsby site. Have not deployed it yet. Not sure where I will host it.
+
